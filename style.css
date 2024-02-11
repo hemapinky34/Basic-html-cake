@@ -1,0 +1,39 @@
+.container{
+    color: blue;
+}
+
+#heading{
+    color: black;
+   
+}
+
+.size{
+    font-size: 20px;
+}
+
+#p1{
+    color: blueviolet;
+}
+
+#p2{
+    color: brown; !important
+    color: black;
+
+}
+
+#hema[draggable]{
+    color: darkred;
+    text-align: right;
+}
+
+#sona{
+    color: aquamarine;
+}
+
+img{
+    width: 50%;
+    height: 200px;
+    margin-left: 25%;
+    border: 2px solid black;
+    border-width: 0px 5px 5px 5px ;
+}
